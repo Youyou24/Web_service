@@ -13,7 +13,7 @@ Ce service permet d'envoyer automatiquement des photos via WhatsApp à des utili
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/votre-username/Web_service.git
+git clone https://github.com/Youyou24/Web_service.git
 cd Web_service
 ```
 
